@@ -142,13 +142,3 @@ Basic preprocessing only
 No deployment (CLI-based only)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🔮 Future Enhancements :
-
-📊 Hyperparameter tuning
-📈 Use advanced models (Random Forest, XGBoost)
-🌐 Deploy as web app
-📉 Improve feature engineering
-📊 Add more visual analytics
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
